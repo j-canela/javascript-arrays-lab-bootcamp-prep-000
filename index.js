@@ -8,6 +8,6 @@ function kittens(){
 }
 
 function destructivelyAppendKitten(name){
-  kitten.push(name);
+  kitten.push(Ralph);
   return kitten;
 }
